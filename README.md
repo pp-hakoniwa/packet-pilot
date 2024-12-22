@@ -1,7 +1,7 @@
 # packet-pilot
 
 This is a continuation of the “Boxed Airfield” section of the series in Network Magazine “Packet Pilot”.
-<a href=“https://www.amazon.co.jp/dp/B0DKGBQ44F”>Network Magazine "Packet Pilot"</a>
+[Network Magazine "Packet Pilot"](https://www.amazon.co.jp/dp/B0DKGBQ44F)
 
 We will use Rust and WebAssembly to create a network simulator that runs in a web browser.
 
