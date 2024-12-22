@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Packet Pilot Terminal</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/xterm/3.14.5/xterm.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xterm/3.14.5/xterm.min.js"></script>
+    <link rel="stylesheet" href="css/styles.css" />
+    <script type="module" src="js/main.js"></script>
+</head>
+<body>
+    <div class="terminal-container">
+        <!-- タイトルバー -->
+        <div class="terminal-title-bar">
+            <div class="terminal-drag-indicator"></div>
+            <span class="terminal-title">Packet Pilot Terminal</span>
+            <!-- クリアボタン -->
+            <button id="clearButton" class="clear-button" title="Clear Terminal">
+                <i class="fa fa-refresh"></i> <!-- リロードアイコン -->
+            </button>
+        </div>
+        <!-- ターミナル本体 -->
+        <div id="terminal"></div>
+    </div>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</body>
+</html>
