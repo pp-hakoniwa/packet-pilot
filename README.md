@@ -1,7 +1,7 @@
 # packet-pilot
 
 This is a continuation of the “Boxed Airfield” section of the series in Network Magazine “Packet Pilot”.
-<a href=“https://www.amazon.co.jp/dp/B0DKGBQ44F”><img src=“https://packet-pilot/assets/diy/hakoniwa/01/cover.png”></a>
+<a href=“https://www.amazon.co.jp/dp/B0DKGBQ44F”>Network Magazine "Packet Pilot"</a>
 
 We will use Rust and WebAssembly to create a network simulator that runs in a web browser.
 
@@ -13,7 +13,7 @@ located at.
 
 We will continue to upgrade the version in conjunction with the Network Magazine “Packet Pilot”.
 
-- 2024-12-22 : v.0.2.4
+### 2024-12-22 : v.0.2.4
 - Address
   - [x] MACAddress
   - [x] IPv4Address
